@@ -14,4 +14,4 @@ export function writeGameSaving() {
 };
 
 import Character from './domain.js';
-console.log(Character);
+//console.log(Character);
